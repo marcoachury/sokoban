@@ -1,4 +1,4 @@
-# sokoban
+# SOKOBAN / YABASIC
 Rescue the old classic sokoban game for yabasic by Hermang Mansilla
 
 This game used to be included as demo with yabasic interpreter.
